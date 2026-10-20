@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-528-owner-reply-to-a-review-api",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-528-owner-reply-to-a-review-api": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-528-owner-reply-to-a-review-api",
+    "origin"
+  ]
+}
